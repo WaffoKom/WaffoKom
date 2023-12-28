@@ -2,7 +2,7 @@
 * 👀 I’m interested in  Basketball, Football, Mangas, FullStack Development
 * 🌱 I’m currently learning  ReactJS, MongoDB, NodeJS.
 * 📫 How to reach me :
-- Facebook : https://www.facebook.com/profile.php?id=100071627593218&locale=fr_FR
+- facebook : https://www.facebook.com/profile.php?id=100071627593218&locale=fr_FR
 - Linkedkln : https://www.linkedin.com/in/daniel-kom-41b59b272/
 
 <!---
