@@ -2,6 +2,9 @@
 * 👀 I’m interested in  Basketball, Football, Mangas, FullStack Development
 * 🌱 I’m currently learning  ReactJS, MongoDB, NodeJS.
 * 📫 How to reach me :
+* My phones numbers :
+  -Camtel : +237 620 80 50 20
+  -Orange : +237 656 29 42 40 / + 237 690 99 04 33
 - facebook : https://www.facebook.com/profile.php?id=100071627593218&locale=fr_FR
 - Linkedkln : https://www.linkedin.com/in/daniel-kom-41b59b272/
 
