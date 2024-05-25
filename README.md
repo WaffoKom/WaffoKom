@@ -1,6 +1,6 @@
 * 👋 Hi, I’m @WaffoKom
 * 👀 I’m interested in  Basketball, Football, Mangas, FullStack Development
-* 🌱 I’m currently learning  ReactJS, MongoDB, NodeJS.
+* 🌱 I’m a MERN STACK DEVELOPPER.
 * 📫 How to reach me :
 * My phones numbers :
   -Camtel : +237 620 80 50 20
