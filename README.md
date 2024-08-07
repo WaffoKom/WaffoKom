@@ -4,7 +4,9 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Everyone;My name it's+DaniloWaffis; I'm MERN +Stack+developer"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Everyone;My name it's+DaniloWaffis"/>
   </a>
 </h1>
 
+
+<h3 align="center"> A passionate Sofware developer from Cameroon </h3>
