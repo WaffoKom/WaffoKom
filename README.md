@@ -12,6 +12,6 @@
 WaffoKom/WaffoKom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaffoKom)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaffoKom&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaffoKom&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ambient_gradient)
