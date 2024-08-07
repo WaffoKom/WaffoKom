@@ -32,6 +32,12 @@ jobs:
       - name: Show build status
         run: git status
 
+      - name: Save state
+        run: echo "count=5" >> $GITHUB_STATE
+
+      - name: Set output
+        run: echo "count=5" >> $GITHUB_OUTPUT
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
