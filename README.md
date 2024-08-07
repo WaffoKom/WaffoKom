@@ -68,7 +68,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=WaffoKom&theme=vue-dark&show_icons=true&hide_border=false&count_private=false&border_radius=10" alt="WaffoKom's Stats">
 </a>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffoKom&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
-      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffoKom&theme=vue-dark&show_icons=true&hide_border=false&border_radius=10&layout=compact" alt="WaffoKom's Top Languages">
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffoKom&theme=vue-dark&show_icons=true&hide_border=false&border_radius=10&layout=compact" alt="WaffoKom's Top Languages">
     </a>
  
 </div>
