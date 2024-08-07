@@ -59,9 +59,10 @@
 <br>
 
 <div align=center>
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=WaffoKom&theme=react" alt="GitHub Streak" />
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=WaffoKom&theme=vue-dark&hide_border=false">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaffoKom&theme=vue-dark&hide_border=false" alt="WaffoKom's Streak"/>
     </a>
+<hr/>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffoKom&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffoKom&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="WaffoKom's Top Languages">
     </a>
