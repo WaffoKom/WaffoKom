@@ -58,7 +58,6 @@
   
   <br/><br/><br/>
 </div>
-  <br/><br/><br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
