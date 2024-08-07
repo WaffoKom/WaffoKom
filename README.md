@@ -55,11 +55,13 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img width=390 src="https://streak-stats.demolab.com/?user=WaffoKom1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-      <br/>
 
+<br>
+
+<div align=center>
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=WaffoKom&theme=react" alt="GitHub Streak" />
+    </a>
   <br/>
 </div>
 
