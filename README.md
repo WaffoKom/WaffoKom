@@ -60,7 +60,7 @@
 
 <div align=center>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=WaffoKom&theme=vue-dark&hide_border=false">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaffoKom&theme=vue-dark&hide_border=falseborder_radius=10" alt="WaffoKom's Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaffoKom&theme=vue-dark&hide_border=false&border_radius=10" alt="WaffoKom's Streak"/>
     </a>
    
   <br/>
