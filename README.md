@@ -65,9 +65,9 @@
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=WaffoKom&theme=vue-dark&hide_border=false">
       <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=WaffoKom&theme=vue-dark&hide_border=false&border_radius=10" alt="WaffoKom's Streak"/>
     </a>
-    <img width=390 src="https://github-stats-extended.vercel.app/api?username=WaffoKom&show_icons=true&theme=vue-dark&hide_border=false&border_radius=10" alt="WaffoKom's GitHub Stats"/>
+    <img width=390 src="https://my-github-stats-self.vercel.app/api?username=WaffoKom&show_icons=true&theme=vue-dark&hide_border=false&border_radius=10&count_private=true&include_all_commits=true" alt="WaffoKom's GitHub Stats"/>
     <br/>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WaffoKom&layout=compact&theme=vue-dark&hide_border=false&border_radius=10" alt="WaffoKom's Top Languages"/>
+    <img src="https://my-github-stats-self.vercel.app/api/top-langs/?username=WaffoKom&layout=compact&theme=vue-dark&hide_border=false&border_radius=10" alt="WaffoKom's Top Languages"/>
 </div>
 
 <br/><br/>
